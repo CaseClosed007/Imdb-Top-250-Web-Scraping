@@ -1,0 +1,251 @@
+name,year,rating,length,reviews
+The Shawshank Redemption,1994,9.3,2h 22m,2.9M
+The Godfather,1972,9.2,2h 55m,2M
+The Dark Knight,2008,9.0,2h 32m,2.9M
+The Godfather: Part II,1974,9.0,3h 22m,1.4M
+12 Angry Men,1957,9.0,1h 36m,861K
+Schindler's List,1993,9.0,3h 15m,1.4M
+The Lord of the Rings: The Return of the King,2003,9.0,3h 21m,2M
+Pulp Fiction,1994,8.9,2h 34m,2.2M
+The Lord of the Rings: The Fellowship of the Ring,2001,8.9,2h 58m,2M
+"Il Buono, Il Brutto, Il Cattivo",1966,8.8,2h 41m,808K
+Forrest Gump,1994,8.8,2h 22m,2.2M
+The Lord of the Rings: The Two Towers,2002,8.8,2h 59m,1.8M
+Fight Club,1999,8.8,2h 19m,2.3M
+Inception,2010,8.8,2h 28m,2.5M
+Dune: Part Two,2024,8.8,2h 46m,283K
+Star Wars: Episode V - The Empire Strikes Back,1980,8.7,2h 4m,1.4M
+The Matrix,1999,8.7,2h 16m,2M
+GoodFellas,1990,8.7,2h 25m,1.3M
+One Flew Over the Cuckoo's Nest,1975,8.7,2h 13m,1.1M
+Se7en,1995,8.6,2h 7m,1.8M
+Interstellar,2014,8.7,2h 49m,2.1M
+It's a Wonderful Life,1946,8.6,2h 10m,498K
+Shichinin No Samurai,1954,8.6,3h 27m,366K
+The Silence of the Lambs,1991,8.6,1h 58m,1.5M
+Saving Private Ryan,1998,8.6,2h 49m,1.5M
+City of God,2002,8.6,2h 10m,798K
+Life Is Beautiful,1997,8.6,1h 56m,741K
+The Green Mile,1999,8.6,3h 9m,1.4M
+Terminator 2: Judgment Day,1991,8.6,2h 17m,1.2M
+Star Wars: Episode IV - A New Hope,1977,8.6,2h 1m,1.4M
+Back to the Future,1985,8.5,1h 56m,1.3M
+Spirited Away,2001,8.6,2h 5m,844K
+The Pianist,2002,8.5,2h 30m,908K
+Parasite,2019,8.5,2h 12m,950K
+Psycho,1960,8.5,1h 49m,716K
+Spider-man: Across the Spider-verse,2023,8.6,2h 20m,361K
+Gladiator,2000,8.5,2h 35m,1.6M
+The Lion King,1994,8.5,1h 28m,1.1M
+Léon,1994,8.5,1h 50m,1.2M
+The Departed,2006,8.5,2h 31m,1.4M
+American History X,1998,8.5,1h 59m,1.2M
+Whiplash,2014,8.5,1h 46m,982K
+The Prestige,2006,8.5,2h 10m,1.4M
+Grave of the Fireflies,1988,8.5,1h 29m,309K
+Seppuku,1962,8.6,2h 13m,68K
+The Usual Suspects,1995,8.5,1h 46m,1.1M
+Casablanca,1942,8.5,1h 42m,604K
+Intouchables,2011,8.5,1h 52m,925K
+Cinema Paradiso,1988,8.5,2h 54m,282K
+Modern Times,1936,8.5,1h 27m,259K
+Rear Window,1954,8.5,1h 52m,520K
+C'era Una Volta Il West,1968,8.5,2h 46m,348K
+Alien,1979,8.5,1h 57m,946K
+City Lights,1931,8.5,1h 27m,195K
+Apocalypse Now,1979,8.4,2h 27m,707K
+Django Unchained,2012,8.5,2h 45m,1.7M
+12th Fail,2023,9.0,2h 27m,107K
+Memento,2000,8.4,1h 53m,1.3M
+WALL·E,2008,8.4,1h 38m,1.2M
+Raiders of the Lost Ark,1981,8.4,1h 55m,1M
+Das Leben der Anderen,2006,8.4,2h 17m,409K
+Sunset Blvd.,1950,8.4,1h 50m,236K
+Paths of Glory,1957,8.4,1h 28m,212K
+Avengers: Infinity War,2018,8.4,2h 29m,1.2M
+Spider-Man: Into the Spider-Verse,2018,8.4,1h 57m,666K
+The Shining,1980,8.4,2h 26m,1.1M
+Witness for the Prosecution,1957,8.4,1h 56m,137K
+The Great Dictator,1940,8.4,2h 5m,237K
+Alien 2,1986,8.4,2h 17m,760K
+Inglourious Basterds,2009,8.4,2h 33m,1.6M
+The Dark Knight Rises,2012,8.4,2h 44m,1.8M
+Dr,1964,8.4,1h 35m,517K
+American Beauty,1999,8.3,2h 2m,1.2M
+Oldeuboi,2003,8.3,1h 41m,633K
+Coco,2017,8.4,1h 45m,587K
+Amadeus,1984,8.4,2h 40m,426K
+Toy Story,1995,8.3,1h 21m,1.1M
+Das Boot,1981,8.4,2h 29m,264K
+Braveheart,1995,8.3,2h 58m,1.1M
+Avengers: Endgame,2019,8.4,3h 1m,1.3M
+Joker,2019,8.4,2h 2m,1.5M
+Mononoke-hime,1997,8.3,2h 14m,432K
+Good Will Hunting,1997,8.3,2h 6m,1.1M
+Kimi No Na Wa.,2016,8.4,1h 46m,317K
+Once Upon a Time in America,1984,8.3,3h 49m,376K
+Tengoku to Jigoku,1963,8.4,2h 23m,53K
+3 Idiots,2009,8.4,2h 50m,433K
+Singin' in the Rain,1952,8.3,1h 43m,260K
+Oppenheimer,2023,8.3,3h,697K
+Capharnaüm,2018,8.4,2h 6m,104K
+Requiem for a Dream,2000,8.3,1h 42m,896K
+Idi I Smotri,1985,8.4,2h 22m,96K
+Toy Story 3,2010,8.3,1h 43m,890K
+Star Wars: Episode VI - Return of the Jedi,1983,8.3,2h 11m,1.1M
+Eternal Sunshine of the Spotless Mind,2004,8.3,1h 48m,1.1M
+Jagten,2012,8.3,1h 55m,363K
+2001: A Space Odyssey,1968,8.3,2h 29m,717K
+Reservoir Dogs,1992,8.3,1h 39m,1.1M
+Ikiru,1952,8.3,2h 23m,87K
+Lawrence of Arabia,1962,8.3,3h 38m,313K
+The Apartment,1960,8.3,2h 5m,196K
+North by Northwest,1959,8.3,2h 16m,345K
+Citizen Kane,1941,8.3,1h 59m,465K
+Vertigo,1958,8.3,2h 8m,425K
+M - Eine Stadt sucht einen Mörder,1931,8.3,1h 57m,168K
+Incendies,2010,8.3,2h 11m,198K
+Double Indemnity,1944,8.3,1h 47m,167K
+Scarface,1983,8.3,2h 50m,913K
+Le fabuleux destin d'Amélie Poulain,2001,8.3,2h 2m,792K
+Full Metal Jacket,1987,8.3,1h 56m,788K
+A Clockwork Orange,1971,8.3,2h 16m,879K
+Heat,1995,8.3,2h 50m,716K
+Up,2009,8.3,1h 36m,1.1M
+To Kill a Mockingbird,1962,8.3,2h 9m,332K
+The Sting,1973,8.3,2h 9m,279K
+Jodaeiye Nader Az Simin,2011,8.3,2h 3m,258K
+Indiana Jones and the Last Crusade,1989,8.2,2h 7m,809K
+Die Hard,1988,8.2,2h 12m,942K
+Metropolis,1927,8.3,2h 33m,185K
+Taare Zameen Par,2007,8.3,2h 42m,206K
+Hamilton,2020,8.3,2h 40m,113K
+Snatch,2000,8.2,1h 44m,907K
+L.A,1997,8.2,2h 18m,616K
+Ladri Di Biciclette,1948,8.3,1h 29m,175K
+1917,2019,8.2,1h 59m,671K
+Taxi Driver,1976,8.2,1h 54m,917K
+Der Untergang,2004,8.2,2h 36m,374K
+Dangal,2016,8.3,2h 41m,209K
+Per qualche dollaro in più,1965,8.2,2h 12m,274K
+Batman Begins,2005,8.2,2h 20m,1.6M
+The Wolf of Wall Street,2013,8.2,3h,1.6M
+Some Like It Hot,1959,8.2,2h 1m,283K
+The Kid,1921,8.2,1h 8m,134K
+Green Book,2018,8.2,2h 10m,565K
+The Father,2020,8.2,1h 37m,191K
+Judgment at Nuremberg,1961,8.3,2h 59m,85K
+All About Eve,1950,8.2,2h 18m,138K
+Top Gun: Maverick,2022,8.2,2h 10m,687K
+The Truman Show,1998,8.2,1h 43m,1.2M
+Shutter Island,2010,8.2,2h 18m,1.4M
+There Will Be Blood,2007,8.2,2h 38m,639K
+Casino,1995,8.2,2h 58m,562K
+Ran,1985,8.2,2h 40m,136K
+Jurassic Park,1993,8.2,2h 7m,1.1M
+The Sixth Sense,1999,8.2,1h 47m,1M
+El Laberinto Del Fauno,2006,8.2,1h 58m,701K
+Unforgiven,1992,8.2,2h 10m,435K
+No Country for Old Men,2007,8.2,2h 2m,1.1M
+A Beautiful Mind,2001,8.2,2h 15m,984K
+The Thing,1982,8.2,1h 49m,464K
+The Treasure of the Sierra Madre,1948,8.2,2h 6m,132K
+Kill Bill: Vol,2003,8.2,1h 51m,1.2M
+Yojimbo,1961,8.2,1h 50m,131K
+Monty Python and the Holy Grail,1975,8.2,1h 31m,569K
+The Great Escape,1963,8.2,2h 52m,258K
+Finding Nemo,2003,8.2,1h 40m,1.1M
+Rashōmon,1950,8.2,1h 28m,180K
+Prisoners,2013,8.2,2h 33m,805K
+Hauru No Ugoku Shiro,2004,8.2,1h 59m,446K
+The Elephant Man,1980,8.2,2h 4m,258K
+Chinatown,1974,8.1,2h 10m,349K
+Dial M for Murder,1954,8.2,1h 45m,188K
+Gone with the Wind,1939,8.2,3h 58m,333K
+V for Vendetta,2005,8.2,2h 12m,1.2M
+"Lock, Stock and Two Smoking Barrels",1998,8.1,1h 47m,615K
+El Secreto De Sus Ojos,2009,8.2,2h 9m,222K
+Inside Out,2015,8.1,1h 35m,781K
+Raging Bull,1980,8.1,2h 9m,379K
+"Three Billboards Outside Ebbing, Missouri",2017,8.1,1h 55m,553K
+Trainspotting,1996,8.1,1h 33m,724K
+The Bridge on the River Kwai,1957,8.1,2h 41m,233K
+Spider-Man: No Way Home,2021,8.2,2h 28m,873K
+Fargo,1996,8.1,1h 38m,724K
+Klaus,2019,8.2,1h 36m,189K
+Warrior,2011,8.1,2h 20m,497K
+Catch Me If You Can,2002,8.1,2h 21m,1.1M
+Godzilla Minus One,2023,8.3,2h 4m,47K
+Gran Torino,2008,8.1,1h 56m,813K
+My Neighbour Totoro,1988,8.1,1h 26m,378K
+Million Dollar Baby,2004,8.1,2h 12m,720K
+Harry Potter and the Deathly Hallows: Part 2,2011,8.1,2h 10m,944K
+Bacheha-Ye Aseman,1997,8.2,1h 29m,80K
+12 Years a Slave,2013,8.1,2h 14m,739K
+Blade Runner,1982,8.1,1h 57m,820K
+Before Sunrise,1995,8.1,1h 41m,338K
+The Grand Budapest Hotel,2014,8.1,1h 39m,883K
+Ben-Hur,1959,8.1,3h 32m,253K
+Barry Lyndon,1975,8.1,3h 5m,182K
+Gone Girl,2014,8.1,2h 29m,1.1M
+Hacksaw Ridge,2016,8.1,2h 19m,591K
+The Gold Rush,1925,8.1,1h 35m,118K
+Salinui Chueok,2003,8.1,2h 11m,215K
+In the Name of the Father,1993,8.1,2h 13m,186K
+Dead Poets Society,1989,8.1,2h 8m,543K
+On the Waterfront,1954,8.1,1h 48m,164K
+The General,1926,8.1,1h 18m,98K
+The Deer Hunter,1978,8.1,3h 3m,361K
+Relatos Salvajes,2014,8.1,2h 2m,215K
+Mad Max: Fury Road,2015,8.1,2h,1.1M
+"Monsters, Inc.",2001,8.1,1h 32m,975K
+Sherlock Jr.,1924,8.2,45m,57K
+The Third Man,1949,8.1,1h 44m,181K
+Smultronstället,1957,8.1,1h 31m,115K
+Le Salaire De La Peur,1953,8.2,2h 11m,66K
+Jaws,1975,8.1,2h 4m,657K
+How to Train Your Dragon,2010,8.1,1h 38m,797K
+Mary and Max,2009,8.1,1h 32m,186K
+Mr,1939,8.1,2h 9m,121K
+Ratatouille,2007,8.1,1h 51m,820K
+Ford v,2019,8.1,2h 32m,467K
+The Big Lebowski,1998,8.1,1h 57m,858K
+Det Sjunde Inseglet,1957,8.1,1h 36m,198K
+Room,2015,8.1,1h 58m,449K
+Tokyo Story,1953,8.1,2h 16m,68K
+Rocky,1976,8.1,2h,626K
+Logan,2017,8.1,2h 17m,827K
+Spotlight,2015,8.1,2h 9m,501K
+Hotel Rwanda,2004,8.1,2h 1m,371K
+Platoon,1986,8.1,2h,438K
+The Terminator,1984,8.1,1h 47m,921K
+La passion de Jeanne d'Arc,1928,8.1,1h 50m,60K
+Before Sunset,2004,8.1,1h 20m,287K
+La haine,1995,8.1,1h 38m,195K
+The Best Years of Our Lives,1946,8.1,2h 50m,70K
+Jai Bhim,2021,8.7,2h 44m,217K
+The Exorcist,1973,8.1,2h 2m,453K
+Pirates of the Caribbean: The Curse of the Black Pearl,2003,8.1,2h 23m,1.2M
+Rush,2013,8.1,2h 3m,511K
+Network,1976,8.1,2h 1m,170K
+Stand by Me,1986,8.1,1h 29m,440K
+The Wizard of Oz,1939,8.1,1h 42m,427K
+The Incredibles,2004,8.0,1h 55m,805K
+Hachi: A Dog's Tale,2009,8.1,1h 33m,310K
+Ah-ga-ssi,2016,8.1,2h 25m,171K
+My Father and My Son,2005,8.2,1h 52m,92K
+Into the Wild,2007,8.1,2h 28m,656K
+The Sound of Music,1965,8.1,2h 52m,260K
+La battaglia di Algeri,1966,8.1,2h 1m,65K
+The Grapes of Wrath,1940,8.1,2h 9m,100K
+To Be or Not to Be,1942,8.1,1h 39m,43K
+Groundhog Day,1993,8.0,1h 41m,683K
+Amores perros,2000,8.1,2h 34m,252K
+Rebecca,1940,8.1,2h 10m,146K
+Cool Hand Luke,1967,8.1,2h 7m,188K
+The Iron Giant,1999,8.1,1h 26m,226K
+The Help,2011,8.1,2h 26m,491K
+It Happened One Night,1934,8.1,1h 45m,112K
+Aladdin,1992,8.0,1h 30m,464K
+Dances with Wolves,1990,8.0,3h 1m,289K
+"Paris, Texas",1984,8.1,2h 25m,118K
